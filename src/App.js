@@ -6,7 +6,7 @@ import { ContactList } from './component/ContactList';
 function App() {
   return (
     <div className="App">
-      <h1 className='title'>연락처</h1>
+      <h1 className='title'>PhoneBook</h1>
       <Container>
         <Row>
         <Col><ContactForm/></Col>

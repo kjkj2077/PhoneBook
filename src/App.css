@@ -1,4 +1,19 @@
 
 .title{
   text-align: center;
+  margin-top: 30px;
+}
+.Search-box{
+  margin-top: 24px;
+  
+}
+.contact-list{
+  margin-top: 12px;
+  margin-left: 2px;
+}
+.add-number{
+  margin-top: 24px;
+}
+#delete-button{
+  margin-top: 3px;
 }
